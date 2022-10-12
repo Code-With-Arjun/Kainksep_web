@@ -1,0 +1,13 @@
+.product_content_section{
+    margin: 40px 0;
+}
+.product_content_heading{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.product_content_heading p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 0 20px;
+}

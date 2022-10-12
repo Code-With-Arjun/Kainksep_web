@@ -1,0 +1,8 @@
+.image_section{
+    margin-top: 65px;
+    background-image: url("https://www.kainskep.com/static/media/home.867f3fa14e0ed42db263.webp");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    width: 100%;
+}

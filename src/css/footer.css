@@ -1,0 +1,15 @@
+
+footer{
+    height: 400px;
+    background-color: #0a1535;
+    color:white;
+    padding: 60px 40px;
+}
+footer li{
+    list-style: none;
+    /* line-height: 20px; */
+}
+ .footer_under{
+    background-color: black;
+    color: white;
+}

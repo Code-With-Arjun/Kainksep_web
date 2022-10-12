@@ -1,0 +1,69 @@
+
+.consulting_section{
+    margin-top: 5rem;
+}
+.consulting_section h3{
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-bottom: 0.4rem;
+}
+.consulting_section p{
+    font-size: 1.1rem;
+    line-height: 22px;
+    letter-spacing: 1px;
+    margin-bottom: 0.4rem;
+}
+.consulting_section .button{
+    margin-top: .4rem;
+}
+
+ .consult_image{
+    height: 280px;
+} 
+/* -------------- */
+.what_we_do_section{
+margin-top: 5rem;
+margin-bottom: 10rem;
+}
+.what_we_do_section>h3{
+    margin-bottom: 10rem;
+}
+.card_heading{
+  margin-top: 10px;
+}
+.card_para{
+margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
+    color: black;
+    padding: 7px 10px;
+    /* color: white; */
+    border-color: #22c8e5;
+    /* border:transparent; */
+    background-color: white;
+    border-radius: 20px;
+    width: 50%;
+    cursor: pointer;
+    outline: none;
+}
+button:hover{
+    background-color:#22c8e5;
+    /* background-color:transparent; */
+    color: black;
+}
